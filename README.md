@@ -1,3 +1,18 @@
+
+
+# Project-TextUX
+
+This project is about a UX design site that has the mission to approach UX design concepts. In which I will implement the project.
+
+This project uses react-app
+
+--
+
+The first phase of the project is being implemented, but it is still under construction
+
+================================================================================================
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
